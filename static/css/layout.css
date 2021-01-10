@@ -3,8 +3,8 @@
       font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: palegreen;
-    color:  palegreen;
+    background-color: black;
+    color:  brown;
 }
 .container{
     width: 1080px;
@@ -48,7 +48,7 @@ body{
 
 .menuitem a{
     text-decoration: none; 
-    color: whitesmoke;
+    color: blue;
 }
 
 .content{
@@ -58,7 +58,7 @@ body{
     min-height: 500px;
     margin: 0px 0px 0px 0px;
     border-width: 1px;
-    border-color: white;
+    border-color: blueviolet;
     border-style: solid;
 }
 .homecontent{
@@ -167,5 +167,5 @@ peoplecontent{
     text-align: center;
     padding-top: 10px;
     margin: 0px 0px 0px 0px;
-    color: greenyellow;
+    color: fuchsia;
 }
